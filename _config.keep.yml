@@ -12,19 +12,19 @@ base_info:
   primary_color: "#0066cc"
 
   # Blog website title
-  title: Keep Theme
+  title: Sheldon's Blog
 
   # Blog website author name
-  author: Keep Team
+  author: Sheldon
 
   # Author avatar, You can use local image path or image link
   avatar: /images/avatar.svg
 
   # Website LOGO, You can use local image path or image link
-  logo: /images/logo.svg
+  logo: /images/logo1.svg
 
   # Website favicon, You can use local image path or image link
-  favicon: /images/logo.svg
+  favicon: /images/logo1.svg
 
 
 # ---------------------------------------------------------------------------------------
