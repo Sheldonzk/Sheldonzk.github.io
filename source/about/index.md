@@ -15,8 +15,8 @@ comment: true
 
 ## 联系方式
 
-- GitHub：https://github.com/Sheldonzk
-- 邮箱<i class="fa-solid fa-envelope"></i>：sheldonzk@qq.com
+- <i class="fa-brands fa-github"></i>：https://github.com/Sheldonzk
+- <i class="fa-solid fa-envelope"></i>：sheldonzk@qq.com
 
 ## 关于本站
 在网上看到许多的优秀的个人博客，因此萌生了创建自己的博客的想法
