@@ -7,9 +7,9 @@ const HOME_SIDEBAR_PROFILE = {
   // 头像：图片放到 source/images/ 目录，这里填 /images/文件名
   avatar: '/images/logo1.svg',
   // 姓名
-  name: 'Sheldon',
+  name: 'Kun Zhou',
   // 一句话头衔，如：研究生 / Ph.D. Student
-  title: '研究生',
+  title: 'Avoid arrogance and impatience',
   // 链接列表：icon 是 Font Awesome 类名，url 是跳转地址
   links: [
     { icon: 'fa-brands fa-github', text: 'GitHub', url: 'https://github.com/Sheldonzk' },
